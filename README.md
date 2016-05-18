@@ -1,3 +1,5 @@
+######NOTE: This fork was required becuase Google took down the CryptoJS cdn which was referenced by PortalPay. Hosting ourselves via Github we can guarentee that this does not happen again.
+
 ﻿CryptoJS
 --------
 
